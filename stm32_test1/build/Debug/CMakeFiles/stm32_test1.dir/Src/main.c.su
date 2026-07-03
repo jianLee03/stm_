@@ -1,0 +1,9 @@
+C:/Users/wnwnd/Desktop/stm_/stm32_test1/Src/main.c:365:6:SystemInit	4	static
+C:/Users/wnwnd/Desktop/stm_/stm32_test1/Src/main.c:369:5:main	8	static
+C:/Users/wnwnd/Desktop/stm_/stm32_test1/Src/main.c:381:13:gpio_init	8	static
+C:/Users/wnwnd/Desktop/stm_/stm32_test1/Src/main.c:387:13:pc8_led_init	16	static
+C:/Users/wnwnd/Desktop/stm_/stm32_test1/Src/main.c:395:13:systick_init	4	static
+C:/Users/wnwnd/Desktop/stm_/stm32_test1/Src/main.c:402:13:pc8_led_off	4	static
+C:/Users/wnwnd/Desktop/stm_/stm32_test1/Src/main.c:407:13:pc8_led_on	4	static
+C:/Users/wnwnd/Desktop/stm_/stm32_test1/Src/main.c:412:13:run_blink_phase	24	static
+C:/Users/wnwnd/Desktop/stm_/stm32_test1/Src/main.c:430:13:delay_ms	16	static
