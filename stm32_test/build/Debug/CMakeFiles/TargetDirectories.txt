@@ -1,0 +1,3 @@
+C:/Users/wnwnd/Desktop/stm_/stm32_test/build/Debug/CMakeFiles/stm32_test.dir
+C:/Users/wnwnd/Desktop/stm_/stm32_test/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/wnwnd/Desktop/stm_/stm32_test/build/Debug/CMakeFiles/rebuild_cache.dir
