@@ -1,0 +1,16 @@
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:974:6:SystemInit	4	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:979:13:delay_ms	16	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:993:13:usart2_init	4	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:1006:13:usart2_write_char	16	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:1014:13:usart2_write_string	16	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:1022:13:usart2_write_u32	32	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:1044:13:usart2_write_decimal_1	16	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:1051:13:adc1_pa0_init	8	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:1077:17:adc1_pa0_read	4	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:1087:17:adc_to_millivolts	16	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:1093:17:adc_to_pot_ohms	16	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:1099:17:adc_to_turn_percent_x10	16	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:1105:17:adc_to_angle_degrees_x10	16	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:1111:29:potentiometer_read	48	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:1124:13:potentiometer_print	16	static
+C:/Users/wnwnd/Desktop/stm_/cds_test_0630/Src/main.c:1139:5:main	32	static
