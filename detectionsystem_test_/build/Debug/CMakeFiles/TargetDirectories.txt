@@ -1,0 +1,3 @@
+C:/Users/wnwnd/Desktop/stm_/detectionsystem_test_/build/Debug/CMakeFiles/detectionsystem_test_.dir
+C:/Users/wnwnd/Desktop/stm_/detectionsystem_test_/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/wnwnd/Desktop/stm_/detectionsystem_test_/build/Debug/CMakeFiles/rebuild_cache.dir
