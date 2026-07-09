@@ -1,0 +1,3 @@
+C:/Users/wnwnd/Desktop/stm_/UART_DATA/build/Debug/CMakeFiles/UART_DATA.dir
+C:/Users/wnwnd/Desktop/stm_/UART_DATA/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/wnwnd/Desktop/stm_/UART_DATA/build/Debug/CMakeFiles/rebuild_cache.dir

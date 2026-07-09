@@ -1,0 +1,12 @@
+C:/Users/wnwnd/Desktop/stm_/buzzer_test_0701/Src/main.c:96:6:SystemInit	4	static
+C:/Users/wnwnd/Desktop/stm_/buzzer_test_0701/Src/main.c:105:13:led_gpio_init	4	static
+C:/Users/wnwnd/Desktop/stm_/buzzer_test_0701/Src/main.c:113:13:led_write	24	static
+C:/Users/wnwnd/Desktop/stm_/buzzer_test_0701/Src/main.c:130:13:nvic_enable_irq	16	static
+C:/Users/wnwnd/Desktop/stm_/buzzer_test_0701/Src/main.c:139:13:uart2_init	8	static
+C:/Users/wnwnd/Desktop/stm_/buzzer_test_0701/Src/main.c:155:13:uart2_write_async	16	static
+C:/Users/wnwnd/Desktop/stm_/buzzer_test_0701/Src/main.c:161:13:schedule_led_uart_message	16	static
+C:/Users/wnwnd/Desktop/stm_/buzzer_test_0701/Src/main.c:167:13:led_state_start	16	static
+C:/Users/wnwnd/Desktop/stm_/buzzer_test_0701/Src/main.c:175:13:tim2_1s_interrupt_init	8	static
+C:/Users/wnwnd/Desktop/stm_/buzzer_test_0701/Src/main.c:190:6:TIM2_IRQHandler	8	static
+C:/Users/wnwnd/Desktop/stm_/buzzer_test_0701/Src/main.c:215:6:USART2_IRQHandler	16	static
+C:/Users/wnwnd/Desktop/stm_/buzzer_test_0701/Src/main.c:230:5:main	8	static,ignoring_inline_asm
