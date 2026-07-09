@@ -1,0 +1,6 @@
+C:/Users/wnwnd/Desktop/stm_/led_PWM/Src/main.c:65:6:SystemInit	4	static
+C:/Users/wnwnd/Desktop/stm_/led_PWM/Src/main.c:69:13:systick_init_1ms	4	static
+C:/Users/wnwnd/Desktop/stm_/led_PWM/Src/main.c:76:13:delay_ms	24	static
+C:/Users/wnwnd/Desktop/stm_/led_PWM/Src/main.c:85:13:gpio_pwm_init	4	static
+C:/Users/wnwnd/Desktop/stm_/led_PWM/Src/main.c:98:13:pwm_timers_init	4	static
+C:/Users/wnwnd/Desktop/stm_/led_PWM/Src/main.c:116:5:main	16	static
