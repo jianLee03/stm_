@@ -1,0 +1,15 @@
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:89:6:SystemInit	4	static
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:98:13:systick_init	4	static
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:105:13:led_on	4	static
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:111:13:led_off	4	static
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:117:16:button_is_pressed	4	static
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:122:13:queue_hi_message	4	static
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:127:13:sync_led_with_button	16	static
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:141:13:usart2_init	4	static
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:155:13:usart2_write_char	16	static
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:163:13:usart2_write_string	16	static
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:171:13:gpio_exti_init	8	static
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:200:16:take_hi_event	16	static,ignoring_inline_asm
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:214:6:SysTick_Handler	4	static
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:219:6:EXTI15_10_IRQHandler	8	static
+C:/Users/wnwnd/Desktop/stm_/interrupt/Src/main.c:231:5:main	8	static,ignoring_inline_asm
