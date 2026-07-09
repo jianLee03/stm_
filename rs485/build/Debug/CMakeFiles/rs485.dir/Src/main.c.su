@@ -1,0 +1,12 @@
+C:/Users/wnwnd/Desktop/stm_/rs485/Src/main.c:127:13:systick_start	4	static
+C:/Users/wnwnd/Desktop/stm_/rs485/Src/main.c:135:12:systick_tick_elapsed	4	static
+C:/Users/wnwnd/Desktop/stm_/rs485/Src/main.c:145:13:gpio_set_mode	40	static
+C:/Users/wnwnd/Desktop/stm_/rs485/Src/main.c:155:13:gpio_write	16	static
+C:/Users/wnwnd/Desktop/stm_/rs485/Src/main.c:168:13:gpio_init	8	static
+C:/Users/wnwnd/Desktop/stm_/rs485/Src/main.c:196:13:usart_init	32	static
+C:/Users/wnwnd/Desktop/stm_/rs485/Src/main.c:207:13:rs485_init	8	static
+C:/Users/wnwnd/Desktop/stm_/rs485/Src/main.c:223:13:usart_send	32	static
+C:/Users/wnwnd/Desktop/stm_/rs485/Src/main.c:235:12:rs485_try_receive	16	static
+C:/Users/wnwnd/Desktop/stm_/rs485/Src/main.c:248:6:SystemInit	4	static
+C:/Users/wnwnd/Desktop/stm_/rs485/Src/main.c:256:13:run_one_byte_test	32	static
+C:/Users/wnwnd/Desktop/stm_/rs485/Src/main.c:281:5:main	24	static

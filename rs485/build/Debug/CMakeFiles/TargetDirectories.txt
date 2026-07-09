@@ -1,0 +1,3 @@
+C:/Users/wnwnd/Desktop/stm_/rs485/build/Debug/CMakeFiles/rs485.dir
+C:/Users/wnwnd/Desktop/stm_/rs485/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/wnwnd/Desktop/stm_/rs485/build/Debug/CMakeFiles/rebuild_cache.dir
